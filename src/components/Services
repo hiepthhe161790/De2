@@ -1,0 +1,7 @@
+import AdminListProduct from "./AdminListProduct";
+const Footer = () => {
+    return (
+       <AdminListProduct></AdminListProduct>
+    );
+}
+export default Footer;
